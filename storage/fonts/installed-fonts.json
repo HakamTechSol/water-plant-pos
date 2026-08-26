@@ -1,0 +1,15 @@
+{
+    "poppins": {
+        "italic": "C:\\laragon\\www\\pos\\storage\\fonts\/poppins_italic_1ad90e53438b9573bebb0fe37dfde87c",
+        "500": "C:\\laragon\\www\\pos\\storage\\fonts\/poppins_500_6a6f5e017da7e062546fd806ab3b249c",
+        "600": "C:\\laragon\\www\\pos\\storage\\fonts\/poppins_600_272b14b77a21dc5827f4570eff556c8f",
+        "bold": "poppins_bold_2d1c4b360c3ac297e98fc2cfd808a2cc"
+    },
+    "font awesome 5 brands": {
+        "normal": "font_awesome_5_brands_normal_8714fe5f6947261c866bd41826c329b6"
+    },
+    "font awesome 5 free": {
+        "normal": "C:\\laragon\\www\\pos\\storage\\fonts\/font_awesome_5_free_normal_6797d6a1770ab2af5d60b0a933915a1f",
+        "900": "font_awesome_5_free_900_443c9bf01bdd09e789c2c81e2de23429"
+    }
+}
